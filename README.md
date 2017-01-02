@@ -1,1 +1,1 @@
-# NumericalIntegralMethods
+# Numerical Integral Methods
